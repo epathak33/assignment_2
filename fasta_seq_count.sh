@@ -1,5 +1,5 @@
 #!/bin/bash
-echo This script can count the number of sequences in a fasta file.
+echo 'This script can count the number of sequences in a fasta file.'
 greeting='Namaste'
 name='Enish'
 echo $greeting $name
